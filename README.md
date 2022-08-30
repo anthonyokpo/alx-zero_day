@@ -1,3 +1,1 @@
-My first readme
-
-It is up to date.
+My first readme. It is up to date.
